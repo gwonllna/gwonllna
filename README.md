@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi It's Geonho's github
 
 <!--
 **gwonllna/gwonllna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
